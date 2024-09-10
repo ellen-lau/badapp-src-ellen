@@ -1,5 +1,7 @@
 # Liberty Test Application - BadApp
 
+Kickoff build
+
 ## Build
 1. `git clone` 
 2. Please create `settings.xml` file under this path`${user.home}/.m2/`.Please replace TaaS artifactory server credentials for both `central` and `snapshots` entries.
