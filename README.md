@@ -1,6 +1,6 @@
 # Liberty Test Application - BadApp
 
-Kickoff build 2
+Kickoff build 3
 
 ## Build
 1. `git clone` 
